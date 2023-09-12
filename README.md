@@ -7,24 +7,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-</br>
-</br> 
+ Import Necessary Libraries
 
 ### Step2
-</br>
-</br> 
+Load the image you want to process using the chosen library.
 
 ### Step3
-</br>
-</br> 
+Define the filter kernel for smoothing or sharpening as a 2D matrix.
 
 ### Step4
-</br>
-</br> 
+Apply the filter to the image using cv2.filter2D
 
 ### Step5
-</br>
-</br> 
+Display or save the processed image using cv2.imshow
 
 ## Program:
 ### Developed By:  JAYAKRISHNAN L B L
@@ -162,71 +157,35 @@ plt.show()
 i) Using Averaging Filter:
 
 
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6f278e0a-1ece-4865-a067-0688be544341)
 
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ii) Using Weighted Averaging Filter:
 
-![Screenshot 2023-09-09 160924](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/ce5c4ffb-0b0a-418a-8639-20ef22b423d0)
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6829c20d-31ec-4fdf-8f01-8f1d364be383)
 
 iii) Using Gaussian Filter:
 
-![Screenshot 2023-09-09 161303](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/6e0d24b4-5b17-4236-bac3-19451daa461b)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/1b40067a-cd85-46ed-a129-0724f3a70f9b)
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
 
 iv) Using Median Filter:
 
-![Screenshot 2023-09-09 161357](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/3e86c2f5-9ebc-437d-a460-5dc67c9a2c7e)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/49ff6c70-578b-4c50-8300-e71ba9d63987)
 
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ### 2. Sharpening Filters
-</br>
+
 
 i) Using Laplacian Kernal:
 
-![Screenshot 2023-09-09 162046](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/660d2654-8a7c-4224-801b-2dc40c5eef8f)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/b82857c3-6691-466e-951c-f1063731e78c)
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ii) Using Laplacian Operator:
 
-![Screenshot 2023-09-09 162153](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/39697256-dd0a-4c81-a4c1-faa91d4583ea)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/984a5bc8-982b-4466-990a-9f30329cd24a)
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
