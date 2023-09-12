@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 </br> 
 
 ## Program:
-### Developed By:  JEEVAGOWTHAM S
-### Register Number: 212222230053
+### Developed By:  JAYAKRISHNAN L B L
+### Register Number: 212222230052
 </br>
 
 ### 1. Smoothing Filters:
@@ -36,7 +36,7 @@ Anaconda - Python 3.7
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image1=cv2.imread("cat.jpeg")
+image1=cv2.imread("tree.png")
 image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
 ```
 i) Using Averaging Filter
@@ -161,7 +161,7 @@ plt.show()
 
 i) Using Averaging Filter:
 
-![Screenshot 2023-09-09 160623](https://github.com/JeevaGowtham-S/IMPLEMENTATION-OF-FILTERSS/assets/118042624/605193ae-d749-4762-843e-51190fff37b1)
+
 
 </br>
 </br>
