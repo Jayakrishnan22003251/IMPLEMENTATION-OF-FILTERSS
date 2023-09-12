@@ -156,22 +156,26 @@ plt.show()
 
 i) Using Averaging Filter:
 
-
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6f278e0a-1ece-4865-a067-0688be544341)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/984a5bc8-982b-4466-990a-9f30329cd24a)
 
 
 ii) Using Weighted Averaging Filter:
 
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6829c20d-31ec-4fdf-8f01-8f1d364be383)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6f278e0a-1ece-4865-a067-0688be544341)
+
 
 iii) Using Gaussian Filter:
 
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/1b40067a-cd85-46ed-a129-0724f3a70f9b)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/6829c20d-31ec-4fdf-8f01-8f1d364be383)
+
+
 
 
 iv) Using Median Filter:
 
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/49ff6c70-578b-4c50-8300-e71ba9d63987)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/1b40067a-cd85-46ed-a129-0724f3a70f9b)
+
+
 
 
 ### 2. Sharpening Filters
@@ -179,12 +183,14 @@ iv) Using Median Filter:
 
 i) Using Laplacian Kernal:
 
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/b82857c3-6691-466e-951c-f1063731e78c)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/49ff6c70-578b-4c50-8300-e71ba9d63987)
+
 
 
 ii) Using Laplacian Operator:
 
-![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/984a5bc8-982b-4466-990a-9f30329cd24a)
+![image](https://github.com/Jayakrishnan22003251/IMPLEMENTATION-OF-FILTERSS/assets/120232371/b82857c3-6691-466e-951c-f1063731e78c)
+
 
 
 ## Result:
